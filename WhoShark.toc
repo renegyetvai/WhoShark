@@ -1,0 +1,7 @@
+## Interface: 100002
+## Title: WhoShark
+## Notes: Tracks the playernames returned by the who subsystem.
+## Version: 0.1
+## SavedVariables: WhoShark_CNT, WhoShark_NAMES
+## Author: DaneBlu
+WhoShark.lua
